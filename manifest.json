@@ -1,0 +1,12 @@
+{
+    "name": "19-Foredune",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Kitsori/19-Foredune",
+    "description": "Adds a brand new early game vanilla-like moon to the game!",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.4.11",
+        "Evaisa-FixPluginTypesSerialization-1.1.2",
+        "BepInEx-BepInExPack-5.4.2100",
+        "MaxWasUnavailable-LethalModDataLib-1.2.2"
+    ]
+}
