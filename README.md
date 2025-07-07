@@ -21,5 +21,6 @@ Foredune is a more early-game focused moon, great for beginners!
 
 - HUGE Thanks to AudioKnight/Starlancer's moon tutorial AND the Lethal Company modding discord for helping me A LOT along the way, most significantly, Sniper1_1!
 - IamBatby, Evaisa, and any other mods used to help create and run this!
+- ...and probably others I'm forgetting right now..
 
 [Water asset I used](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449)
