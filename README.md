@@ -1,6 +1,8 @@
 # 13-Foredune
 Adds a brand new vanilla-like moon to Lethal Company!
 
+A more forested moon, similar to Vow and March's environment
+
 Foredune is a more early-game focused moon, great for beginners!
 
 
